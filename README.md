@@ -4,11 +4,11 @@
 
 - Mes forces : Je suis bon a faire des idees d'histoires avec une abondance de caractere et a crée des environnements riche et creatifs.
     - Exemple : Ma passion pour les dessins et l'envie de crée un monde intéressant avec beaucoup de lore.
-- Mes faiblesses ou points à améliorer : J'ai de la difficulté a avoir des idees fixe puisque je change toujours une partie de mes creations lorsque je me remet en action dessus . 
+- Mes faiblesses ou points à améliorer : J'ai de la difficulté a avoir des idées fixe puisque je change toujours une partie de mes créations lorsque je me remet en action dessus . 
     - Exemple : Lorsque j'écris une histoire, j'ai tendance a scrappé mes idées qui pourrait être plus développé en faveur de nouvelles idées.
-- Seul(e) ou en équipe : Je préfère travailler seul dans mes projets en général au cegep et a l'ecole .
-    - Pourquoi et exemple : Puisque le manque de concensus entre équipe m'offre la liberté créatif pour faire ce que je veux dans mes travaux. Cela m'aide a m'attacher plus a mes projets d'un niveau personel. Par exmemple, une idée de film. Puisque je suis seul, c'est seulement moi qui fait les concepts qui veux dire que je peux faire le film a ma vision.
-- Plutôt technique ou créatif : Je me sens beaucoup plus a l'aise avec les affaire qui nécessite la créativité humaine. la raison pouquoi je préfère la créativité est car je dessine depuis que j'ai 5 ans. Le code et la porgrammation est un affiare plus récent que j'ai sueulement commencer a experimenter il y a 2 ans. 
+- Seul(e) ou en équipe : Je préfère travailler seul dans mes projets en général au cegep et a l'école .
+    - Pourquoi et exemple : Puisque le manque de concensus entre équipe m'offre la liberté créatif pour faire ce que je veux dans mes travaux. Cela m'aide a m'attacher plus a mes projets d'un niveau personel. Par exemple, une idée de film. Puisque je suis seul, c'est seulement moi qui fait les concepts qui veux dire que je peux faire le film a ma vision.
+- Plutôt technique ou créatif : Je me sens beaucoup plus a l'aise avec les affaire qui nécessite la créativité humaine. la raison pouquoi je préfère la créativité est car je dessine depuis que j'ai 5 ans. Le code et la porgrammation est un affaire plus récent que j'ai seulement commencer a experimenter il y a 2 ans. 
 
 ## Exploration des domaines
 
@@ -26,9 +26,9 @@
 
 ### Domaine 1 : Vidéo
 
-- Expérience : J'ai déja été parti dans la création de 2 films au secondaire. J'ai fait le role d'acteur et le role de éditeur et j'ai vraiment adore la processus.
+- Expérience : J'ai déja été parti dans la création de 2 films au secondaire. J'ai fait le role d'acteur et le role de éditeur et j'ai vraiment adoré la processus.
 - Logiciels et outils : Je sais comment utliser Capcut et Final Cut Pro et j'aimerais apprendre comment utliser DaVinci Resolve.
-- Pourquoi il m'intéresse : La raison pouquoi le film m'intérsse est car j'adore les films de comédie comme Super Bad et Ted. Youtube ma aussi introduit beaucoup de skits et de parodies comme Smosh.
+- Pourquoi il m'intéresse : La raison pouquoi le programme de Vidéo m'intéresse est car j'adore les films de comédie comme Super Bad et Ted. Youtube ma aussi introduit beaucoup de skits et de parodies comme Smosh.
 - Travailler dans ce domaine : Oui, je me vois travailler dans se domaine un jour parce que toutes les étapes de la création d'un film me plait et je sais plus au moins comment bien faire chaque étape.
 
 ### Domaine 2 : Animation 2D
@@ -62,3 +62,4 @@
 ## Ma capsule
 
 ![Mon interface OBS](obs.png)
+
